@@ -20,6 +20,10 @@ h1 {
     font-size: 1rem;
 }
 #download-button {
-    padding: 9px;
     display: none;
+    color: #969595;
+}
+span{
+    padding: 7px 13px;
+    cursor: pointer;
 }
